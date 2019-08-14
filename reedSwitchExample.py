@@ -1,3 +1,8 @@
+#Grå er -
+#Rød er +
+#HVis er Signal
+
+
 import RPi.GPIO as GPIO
 import time
 import espeak
